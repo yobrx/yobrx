@@ -52,6 +52,10 @@
 
 🚲 Cycling, 🎮 Video games, 🌎 travel, 📕 learn languages
 
+### 📧 Contact me :
+
+[github@brieux.net](mailto:github@brieux.net)
+
 <!--
 **yobrx/yobrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
