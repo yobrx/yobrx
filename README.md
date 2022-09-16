@@ -1,6 +1,6 @@
 ### Hi 👋
 
-👨 My name is Yoann and I live 30 minutes from Lille in France 🇫🇷 (2 hours with traffic jams 🚗🚗🚗, 25 minutes with train 🚆). I am 34 years old, married, one child 👨‍👩‍👦.
+👨 My name is Yoann and I live 30 minutes from Lille in France 🇫🇷 (1 hour with traffic jams 🚗🚗🚗). I am 34 years old, married, one child 👨‍👩‍👦.
 
 🔭 I'm an user of PHP <img src="https://camo.githubusercontent.com/b71df4fcf19980b56b49c963638df23b5d1d2b9e9e487548649651f2f3e1d603/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7068702e737667" width=16 /> and Symfony and I’m currently Back Lead Developer at [Motoblouz](https://www.motoblouz.com), e-commerce company dedicated to the sale of accessories for bikers and motorcycles 🏍️.
 
@@ -13,16 +13,16 @@
 ### 👨‍💻 My current and previous professional experiences :
 
 - Since 09/2013 : **Senior Symfony/PHP developer 🏍️ [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
-  - API development with [Symfony](https://github.com/symfony/symfony) and [API Platform](https://github.com/api-platform/api-platform) ;
-  - Development of exchange data between our logistics tool and mechanization service ;
-  - Development of exchange data between our database and an external ERP ;
-  - Maintenance and upgrading our applications ;
+  - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform);
+  - Development of exchange data between our logistics tool (WMS) and mechanization service [BOA Concept](https://www.boa-concept.com/);
+  - Maintenance and upgrading our applications (Symfony 3.1 -> 5.4);
+  - API development with [Symfony 4.4](https://github.com/symfony/symfony) and [API Platform 2.5](https://github.com/api-platform/api-platform) for our [ecommerce website](https://www.motoblouz.com);
   - Support, documentation writing, training and presentation of technical subjects ;
   - Analysis and quantification ;
   - Payment methods implementation (Atos, [Hipay](https://github.com/hipay/hipay-fullservice-sdk-php), [Paypal](https://github.com/paypal/PayPal-PHP-SDK)) ;
   - Development of our logistics (stock management and movement), fraud, collection, supply and store checkouts tools.
   
-- 02/2013→09/2013 : **PHP developer 🍳 @SocialWok** _(Valenciennes, France)_
+- 02/2013→09/2013 : **PHP developer 🍳 [@SocialWok](https://www.societe.com/societe/socialwok-750522690.html)** _(Valenciennes, France)_
   - Cloud application development with Amazon S3 / PHP 5.4 / Symfony 2.0 with import and automated processing of emails.
 
 - 06/2010→02/2013 : **Web developer 🐅 [@Tigreblanc](https://www.tigreblanc.fr)** _(Douai, France)_ 
