@@ -38,12 +38,12 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 ### 🌐 Languages _(CECRL self evaluation)_
 
 - 🇫🇷 **French / Français** : C2 Level (Mother tongue)
-- 🇬🇧 **English** : B1 Level
+- 🇬🇧 **English** : B1 Level (Verbal), B2 Level (Written)
 - 🇯🇵 **Japanese / 日本語** : A1 Level (Basics to travel)
 
   #### I’m currently learning...
 
-  - ...🇬🇧 English language, 
+  - ...🇬🇧 English language, to improve my confidence in spoken expression and verbal comprehension
   - and 🇯🇵 Japanese language, to have good notions to travel again in this country, after a first visit in 2019.
 
 ### My hobbies :
