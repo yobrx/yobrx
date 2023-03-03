@@ -11,9 +11,9 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 ### 👨‍💻 My current and previous professional experiences :
 
 - Since 09/2013 : **Senior Symfony/PHP developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
-  - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform);
+  - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform) and [Symfony 6.2](https://github.com/symfony/symfony);
   - Development of exchange data between our logistics tool (WMS) and mechanization service [BOA Concept](https://www.boa-concept.com/);
-  - Maintenance and upgrading our applications (Symfony 3.1 -> 5.4);
+  - Maintenance and upgrading our applications (Last upgrade of our WMS : Symfony 3.1 -> 6.2);
   - API development with [Symfony 4.4](https://github.com/symfony/symfony) and [API Platform 2.5](https://github.com/api-platform/api-platform) for our [ecommerce website](https://www.motoblouz.com);
   - Support, documentation writing, training and presentation of technical subjects ;
   - Analysis and quantification ;
