@@ -1,7 +1,7 @@
 ### 👋
 
 My name is Yoann Brieux and I live 30 minutes from Lille in France. I am 35 years old, married, one child.
-I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motoblouz](https://www.motoblouz.com), e-commerce company dedicated to the sale of accessories for bikers and motorcycles.
+I'm a user of PHP and Symfony, and I’m currently Back Lead Developer at [Motoblouz](https://www.motoblouz.com), e-commerce company dedicated to the sale of accessories for bikers and motorcycles.
 
 ### 💪 My main skills :
 
@@ -9,23 +9,23 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 
 ### 👨‍💻 My current and previous professional experiences
 
-- Since 09/2013 : **Senior Symfony/PHP developer and Back Lead Developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
+- Since 09/2013: **Senior Symfony/PHP developer and Back Lead Developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
   - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform) and [Symfony 6.2](https://github.com/symfony/symfony);
   - Development of exchange data between our logistics tool (WMS) and mechanization service [BOA Concept](https://www.boa-concept.com/);
-  - Maintenance and upgrading our applications (Last upgrade of our WMS : Symfony 3.1 -> 6.2);
+  - Maintenance and upgrading our applications (Last upgrade of our WMS: Symfony 3.1 -> 6.2);
   - API development with [Symfony 4.4](https://github.com/symfony/symfony) and [API Platform 2.5](https://github.com/api-platform/api-platform) for our [ecommerce website](https://www.motoblouz.com);
-  - Support, documentation writing, training and presentation of technical subjects ;
-  - Analysis and quantification ;
-  - Payment methods implementation (Atos, [Hipay](https://github.com/hipay/hipay-fullservice-sdk-php), [Paypal](https://github.com/paypal/PayPal-PHP-SDK)) ;
+  - Support, documentation writing, training and presentation of technical subjects;
+  - Analysis and quantification;
+  - Payment methods implementation (Atos, [Hipay](https://github.com/hipay/hipay-fullservice-sdk-php), [Paypal](https://github.com/paypal/PayPal-PHP-SDK));
   - Development of our logistics (stock management and movement), fraud, collection, supply and store checkouts tools.
   
-- 02/2013→09/2013 : **PHP developer [@SocialWok](https://www.societe.com/societe/socialwok-750522690.html)** _(Valenciennes, France)_
+- 02/2013→09/2013: **PHP developer [@SocialWok](https://www.societe.com/societe/socialwok-750522690.html)** _(Valenciennes, France)_
   - Cloud application development with Amazon S3 / PHP 5.4 / Symfony 2.0 with import and automated processing of emails.
 
-- 06/2010→02/2013 : **Web developer [@Tigreblanc](https://www.tigreblanc.fr)** _(Douai, France)_ 
+- 06/2010→02/2013: **Web developer [@Tigreblanc](https://www.tigreblanc.fr)** _(Douai, France)_ 
   - Web development (HTML5/CSS3, Symfony 1.4 and 2, Prestashop) and hosting management
 
-- 03/2008→06/2010 : **Web developer [@Altima _(became Accenture in 2018)_](https://www.accenture.com/fr-fr/company-news-release-altima-announcement)** _(Roubaix, France)_ 
+- 03/2008→06/2010: **Web developer [@Altima _(became Accenture in 2018)_](https://www.accenture.com/fr-fr/company-news-release-altima-announcement)** _(Roubaix, France)_ 
   - Development of e-commerce websites (Joomla or Symfony 1.0 for specific sites)
 
 ### 👨‍🎓 Education
@@ -36,9 +36,9 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 
 ### 🌐 Languages _(CECRL self evaluation)_
 
-- 🇫🇷 **French / Français** : C2 Level (Mother tongue)
-- 🇬🇧 **English** : B1 Level (Verbal), B2 Level (Written)
-- 🇯🇵 **Japanese / 日本語** : A1- Level (Basics to travel)
+- 🇫🇷 **French / Français**: C2 Level (Mother tongue)
+- 🇬🇧 **English**: B1 Level (Verbal), B2 Level (Written)
+- 🇯🇵 **Japanese / 日本語**: A1- Level (Basics to travel)
 
   #### I’m currently learning...
 
@@ -51,7 +51,8 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 
 ### 📧 Contact me :
 
-* Email : [github@brieux.net](mailto:github@brieux.net)
-* Twitter : https://twitter.com/yobrx
-* LinkedIn : https://www.linkedin.com/in/yoannbrieux/
-* Symfony Connect : https://connect.symfony.com/profile/yoann
+* Email: [github@brieux.net](mailto:github@brieux.net)
+* Twitter: https://twitter.com/yobrx
+* Mastodon: https://mastodon.social/@yobrx
+* LinkedIn: https://www.linkedin.com/in/yoannbrieux/
+* Symfony Connect: https://connect.symfony.com/profile/yoann
