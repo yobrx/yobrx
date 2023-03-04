@@ -1,16 +1,15 @@
-### Hi 👋
+### 👋
 
-My name is Yoann and I live 30 minutes from Lille in France (1 hour with traffic jams). I am 35 years old, married, one child.
-
+My name is Yoann Brieux and I live 30 minutes from Lille in France. I am 35 years old, married, one child.
 I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motoblouz](https://www.motoblouz.com), e-commerce company dedicated to the sale of accessories for bikers and motorcycles.
 
 ### 💪 My main skills :
 
 [PHP](https://www.php.net/), [Symfony](https://symfony.com/), [Api Platform](https://api-platform.com/), [Linux](https://www.linux.org/), [Docker](https://www.docker.com/), [MySQL](https://www.mysql.com/fr/), [RabbitMQ](https://www.rabbitmq.com/), [PHPUnit](https://phpunit.de/), [Behat](https://behat.org/), [Git](https://git-scm.com/), [Gitlab](https://about.gitlab.com/), [Github](https://perdu.com/) etc...
 
-### 👨‍💻 My current and previous professional experiences :
+### 👨‍💻 My current and previous professional experiences
 
-- Since 09/2013 : **Senior Symfony/PHP developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
+- Since 09/2013 : **Senior Symfony/PHP developer and Back Lead Developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
   - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform) and [Symfony 6.2](https://github.com/symfony/symfony);
   - Development of exchange data between our logistics tool (WMS) and mechanization service [BOA Concept](https://www.boa-concept.com/);
   - Maintenance and upgrading our applications (Last upgrade of our WMS : Symfony 3.1 -> 6.2);
@@ -39,7 +38,7 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 
 - 🇫🇷 **French / Français** : C2 Level (Mother tongue)
 - 🇬🇧 **English** : B1 Level (Verbal), B2 Level (Written)
-- 🇯🇵 **Japanese / 日本語** : A1 Level (Basics to travel)
+- 🇯🇵 **Japanese / 日本語** : A1- Level (Basics to travel)
 
   #### I’m currently learning...
 
@@ -56,4 +55,3 @@ I'm an user of PHP and Symfony and I’m currently Back Lead Developer at [Motob
 * Twitter : https://twitter.com/yobrx
 * LinkedIn : https://www.linkedin.com/in/yoannbrieux/
 * Symfony Connect : https://connect.symfony.com/profile/yoann
- 
