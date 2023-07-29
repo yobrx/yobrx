@@ -52,7 +52,7 @@ I'm a user of PHP and Symfony, and I’m currently Back Lead Developer at [Motob
 ### 📧 Contact me :
 
 * Email: [github@brieux.net](mailto:github@brieux.net)
-* Twitter: https://twitter.com/yobrx
+* X: https://x.com/yobrx
 * Mastodon: https://mastodon.social/@yobrx
 * LinkedIn: https://www.linkedin.com/in/yoannbrieux/
 * Symfony Connect: https://connect.symfony.com/profile/yoann
