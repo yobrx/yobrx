@@ -40,11 +40,6 @@ I'm a user of PHP and Symfony, and I’m currently Back Lead Developer at [Motob
 - 🇬🇧 **English**: B1 Level (Verbal), B2 Level (Written)
 - 🇯🇵 **Japanese / 日本語**: A1- Level (Basics to travel)
 
-  #### I’m currently learning...
-
-  - ...🇬🇧 English language, to improve my confidence in spoken expression and verbal comprehension
-  - and 🇯🇵 Japanese language, to have good notions to travel again in this country, after a first visit in 2019.
-
 ### My hobbies :
 
 🚲 Cycling, 🎮 Video games, 🌎 travel, 📕 learn languages
@@ -53,6 +48,6 @@ I'm a user of PHP and Symfony, and I’m currently Back Lead Developer at [Motob
 
 * Email: [github@brieux.net](mailto:github@brieux.net)
 * X: https://x.com/yobrx
-* Mastodon: https://mastodon.social/@yobrx
+* Mastodon: https://phpc.social/@yobrx
 * LinkedIn: https://www.linkedin.com/in/yoannbrieux/
 * Symfony Connect: https://connect.symfony.com/profile/yoann
