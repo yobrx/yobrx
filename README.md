@@ -1,6 +1,6 @@
 ### 👋
 
-My name is Yoann Brieux and I live 30 minutes from Lille in France. I am 35 years old, married, one child.
+My name is Yoann Brieux and I live 30 minutes from Lille in France. I am 36 years old.
 I'm a user of PHP and Symfony, and I’m currently Backend Developer at [@Recisio / Karafun Group](https://www.karafun-group.com/).
 
 ### 💪 My main skills :
@@ -9,8 +9,8 @@ I'm a user of PHP and Symfony, and I’m currently Backend Developer at [@Recisi
 
 ### 👨‍💻 My current and previous professional experiences
 
- - Since 10/2023: **Senior Backend Developer [@Recisio / Karafun Group](https://www.karafun-group.com/)** _(Lille, France)_
-   
+ - Since 11/2023: **Senior Backend Developer [@Recisio / Karafun Group](https://www.karafun-group.com/)** _(Lille, France)_
+   - Gradual migration from a homemade framework to Symfony
  - 09/2013→10/2023: **Senior Symfony/PHP developer and Back Lead Developer [@Motoblouz](https://www.motoblouz.com)** _(Carvin, France)_
    - Development of exchange data between our database and an external ERP ([Nodhos SEI](https://www.seilks.com/fr/logiciel/solution-nodhos)) with [API Platform 3](https://github.com/api-platform/api-platform) and [Symfony 6.3](https://github.com/symfony/symfony);
    - Development of exchange data between our logistics tool (WMS) and mechanization service [BOA Concept](https://www.boa-concept.com/);
@@ -44,12 +44,10 @@ I'm a user of PHP and Symfony, and I’m currently Backend Developer at [@Recisi
 
 ### My hobbies :
 
-🚲 Cycling, 🎮 Video games, 🌎 travel, 📕 learn languages
+🚲 Cycling, 🎮 Video games, 🌎 travel
 
 ### 📧 Contact me :
 
 * Email: [github@brieux.net](mailto:github@brieux.net)
-* X: https://x.com/yobrx
-* Mastodon: https://phpc.social/@yobrx
 * LinkedIn: https://www.linkedin.com/in/yoannbrieux/
 * Symfony Connect: https://connect.symfony.com/profile/yoann
